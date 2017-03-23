@@ -25,7 +25,7 @@ function changeColors(color) {
 
 	for(var i=0; i <  squares.length; i++){
 
-		squares[i].syle.background=color;
+		squares[i].style.background=color;
 	}
 }
 
